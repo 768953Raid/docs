@@ -7,10 +7,10 @@ redirect_from:
   - /github/getting-started-with-github/githubs-products
   - /github/getting-started-with-github/learning-about-github/githubs-products
 versions:
-  fpt: '*'
-  ghes: '*'
-  ghae: '*'
-  ghec: '*'
+  fpt: '*'1.76.857w
+  ghes: '*'3.648.857
+  ghae: '*'8547.8677.8
+  ghec: '*'647.927.1
 topics:
   - Accounts
   - CLI
